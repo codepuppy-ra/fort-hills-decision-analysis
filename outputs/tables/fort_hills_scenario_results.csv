@@ -1,0 +1,13 @@
+scenario,wti_usd_bbl,wti_wcs_diff_usd_bbl,implied_wcs_usd_bbl,cost_case,operating_cost_usd_bbl,margin_usd_bbl,decision_recommendation,investment_attractiveness_score
+Low price / wide differential,49.822,16.789,33.033,High/current cost,38.0,-4.966999999999999,Redirect marginal capital / scale back discretionary spending,8.388333333333335
+Low price / wide differential,49.822,16.789,33.033,Moderate improvement,34.0,-0.9669999999999987,Redirect marginal capital / scale back discretionary spending,15.055000000000001
+Low price / wide differential,49.822,16.789,33.033,Strong improvement,30.0,3.0330000000000013,Redirect marginal capital / scale back discretionary spending,21.72166666666667
+Base case,62.16761904761905,13.897500000000008,48.27011904761904,High/current cost,38.0,10.27011904761904,Limit new capital; fund only high-ROI cost controls,33.783531746031734
+Base case,62.16761904761905,13.897500000000008,48.27011904761904,Moderate improvement,34.0,14.27011904761904,Limit new capital; fund only high-ROI cost controls,40.4501984126984
+Base case,62.16761904761905,13.897500000000008,48.27011904761904,Strong improvement,30.0,18.27011904761904,Limit new capital; fund only high-ROI cost controls,47.11686507936507
+High price / moderate differential,73.08818181818182,13.897500000000008,59.190681818181815,High/current cost,38.0,21.190681818181815,Maintain and invest selectively,51.98446969696969
+High price / moderate differential,73.08818181818182,13.897500000000008,59.190681818181815,Moderate improvement,34.0,25.190681818181815,Maintain and invest selectively,58.65113636363636
+High price / moderate differential,73.08818181818182,13.897500000000008,59.190681818181815,Strong improvement,30.0,29.190681818181815,Maintain and invest selectively,65.31780303030303
+Boom price / narrow differential,84.74590476190477,11.968421052631577,72.77748370927318,High/current cost,38.0,34.777483709273184,Maintain and invest selectively,74.62913951545531
+Boom price / narrow differential,84.74590476190477,11.968421052631577,72.77748370927318,Moderate improvement,34.0,38.777483709273184,Invest in productivity/cost reduction,81.29580618212198
+Boom price / narrow differential,84.74590476190477,11.968421052631577,72.77748370927318,Strong improvement,30.0,42.777483709273184,Invest in productivity/cost reduction,87.96247284878864
