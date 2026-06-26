@@ -1,0 +1,13 @@
+year,metric,value,unit,source_id,notes
+2023,upgraded_net_sco_and_diesel_price_realization,99.40,CAD/bbl,S2,"Oil Sands price realization net of transportation costs but before royalties."
+2024,upgraded_net_sco_and_diesel_price_realization,97.91,CAD/bbl,S2,"Oil Sands price realization net of transportation costs but before royalties."
+2025,upgraded_net_sco_and_diesel_price_realization,87.79,CAD/bbl,S2,"Oil Sands price realization net of transportation costs but before royalties."
+2023,non_upgraded_bitumen_price_realization,67.97,CAD/bbl,S2,"Oil Sands non-upgraded bitumen price realization net of transportation costs but before royalties."
+2024,non_upgraded_bitumen_price_realization,72.65,CAD/bbl,S2,"Oil Sands non-upgraded bitumen price realization net of transportation costs but before royalties."
+2025,non_upgraded_bitumen_price_realization,62.02,CAD/bbl,S2,"Oil Sands non-upgraded bitumen price realization net of transportation costs but before royalties."
+2023,weighted_average_price_realization,90.27,CAD/bbl,S2,"Weighted average Oil Sands price realization."
+2024,weighted_average_price_realization,89.41,CAD/bbl,S2,"Weighted average Oil Sands price realization."
+2025,weighted_average_price_realization,78.80,CAD/bbl,S2,"Weighted average Oil Sands price realization."
+2023,weighted_average_crude_relative_to_wti,-14.44,CAD/bbl,S2,"Weighted average crude price realization relative to WTI."
+2024,weighted_average_crude_relative_to_wti,-14.28,CAD/bbl,S2,"Weighted average crude price realization relative to WTI."
+2025,weighted_average_crude_relative_to_wti,-11.67,CAD/bbl,S2,"Weighted average crude price realization relative to WTI."

@@ -1,0 +1,10 @@
+year,metric,value,unit,source_id,notes
+2023,upgraded_net_sco_and_diesel_sales_volume,486.6,mbbls/d,S2,"Oil Sands sales volumes."
+2024,upgraded_net_sco_and_diesel_sales_volume,513.2,mbbls/d,S2,"Oil Sands sales volumes."
+2025,upgraded_net_sco_and_diesel_sales_volume,520.4,mbbls/d,S2,"Oil Sands sales volumes."
+2023,non_upgraded_bitumen_sales_volume,199.4,mbbls/d,S2,"Oil Sands sales volumes."
+2024,non_upgraded_bitumen_sales_volume,260.8,mbbls/d,S2,"Oil Sands sales volumes."
+2025,non_upgraded_bitumen_sales_volume,278.6,mbbls/d,S2,"Oil Sands sales volumes."
+2023,total_oil_sands_sales_volume,686.0,mbbls/d,S2,"Total Oil Sands sales volumes."
+2024,total_oil_sands_sales_volume,774.0,mbbls/d,S2,"Total Oil Sands sales volumes."
+2025,total_oil_sands_sales_volume,799.0,mbbls/d,S2,"Total Oil Sands sales volumes."
