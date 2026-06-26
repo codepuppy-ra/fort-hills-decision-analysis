@@ -12,3 +12,7 @@ year,metric,value,unit,source_id,notes
 2025,upstream_total_production,860.2,mbbls/d,S2,"Suncor delivered record upstream production of 860,200 bbls/d in 2025."
 2024,upgrader_utilization,98,percent,S2,"Upgrader utilization in 2024."
 2025,upgrader_utilization,99,percent,S2,"Record upgrader utilization in 2025."
+2021,fort_hills_expected_output_low_after_delay,45,mbbls/d,S6,"Reuters reported expected 2021 Fort Hills output of 45000-55000 bpd after slope stability issue."
+2021,fort_hills_expected_output_high_after_delay,55,mbbls/d,S6,"Reuters reported expected 2021 Fort Hills output of 45000-55000 bpd after slope stability issue."
+2021,fort_hills_previous_output_guidance_low,65,mbbls/d,S6,"Reuters reported previous 2021 Fort Hills output guidance of 65000-85000 bpd."
+2021,fort_hills_previous_output_guidance_high,85,mbbls/d,S6,"Reuters reported previous 2021 Fort Hills output guidance of 65000-85000 bpd."
