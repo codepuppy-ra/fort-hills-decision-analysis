@@ -1,0 +1,9 @@
+year,product,metric,value,unit,source_id,notes
+2022,non_upgraded_bitumen,operating_netback_per_barrel,50.55,CAD/bbl,S2,"Oil Sands operating netback per barrel."
+2023,non_upgraded_bitumen,operating_netback_per_barrel,37.25,CAD/bbl,S2,"Oil Sands operating netback per barrel."
+2024,non_upgraded_bitumen,operating_netback_per_barrel,39.72,CAD/bbl,S2,"Oil Sands operating netback per barrel."
+2025,non_upgraded_bitumen,operating_netback_per_barrel,33.51,CAD/bbl,S2,"Oil Sands operating netback per barrel."
+2022,upgraded_net_sco_and_diesel,operating_netback_per_barrel,64.05,CAD/bbl,S2,"Oil Sands operating netback per barrel."
+2023,upgraded_net_sco_and_diesel,operating_netback_per_barrel,49.88,CAD/bbl,S2,"Oil Sands operating netback per barrel."
+2024,upgraded_net_sco_and_diesel,operating_netback_per_barrel,48.98,CAD/bbl,S2,"Oil Sands operating netback per barrel."
+2025,upgraded_net_sco_and_diesel,operating_netback_per_barrel,41.89,CAD/bbl,S2,"Oil Sands operating netback per barrel."
