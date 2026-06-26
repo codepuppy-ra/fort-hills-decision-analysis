@@ -1,0 +1,10 @@
+assumption,value,unit,source_id,notes
+base_fort_hills_cash_cost,33.10,CAD/bbl,S2,"Uses 2025 Fort Hills total cash operating cost per barrel."
+improved_cost_case,31.60,CAD/bbl,S2,"Uses Q4 2025 Fort Hills total cash operating cost per barrel as an improved-cost case."
+stressed_cost_case,36.75,CAD/bbl,S2,"Uses Q2 2025 Fort Hills total cash operating cost per barrel as a stressed-cost case."
+non_upgraded_bitumen_realization_2025,62.02,CAD/bbl,S2,"Uses 2025 Oil Sands non-upgraded bitumen price realization."
+weighted_average_realization_2025,78.80,CAD/bbl,S2,"Uses 2025 weighted average Oil Sands price realization."
+peer_cost_benchmark,22,CAD/bbl,S3,"Uses Canadian Natural mining/upgrading cost comparison from Reuters/BOE."
+continue_investment_margin_threshold,20,CAD/bbl,Manual,"If margin exceeds this threshold, continued productivity investment is treated as more attractive."
+selective_investment_margin_threshold,10,CAD/bbl,Manual,"If margin is positive but below the high threshold, selective or maintenance-focused investment is preferred."
+redirect_capital_margin_threshold,0,CAD/bbl,Manual,"If margin is near zero or negative, redirecting marginal capital is preferred."
