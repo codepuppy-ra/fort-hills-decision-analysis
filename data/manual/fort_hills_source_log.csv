@@ -1,0 +1,5 @@
+source_id,source_name,source_type,url,date_accessed,what_it_supports,notes
+S1,Suncor Fort Hills asset page,Company webpage,,2026-06-25,"Fort Hills capacity, mine life, asset background","Use for fixed Fort Hills asset facts."
+S2,Suncor Energy Annual Report 2025,Annual report,,2026-06-25,"Fort Hills ownership, utilization, production volumes, Oil Sands strategy and segment results","Includes 100% Fort Hills ownership after 2023 acquisitions, 90% utilization target achieved in 2025, production volumes, and strategy updates."
+S3,Reuters operating cost article,News article,,2026-06-25,"Operating cost comparison and Suncor cost-reduction strategy","Use for mining cost estimates and productivity/cost-reduction discussion."
+S4,Suncor guidance or investor presentation,Company guidance,,2026-06-25,"Capital expenditure guidance, North Pit development, strategy","Use for forward-looking investment plans."
