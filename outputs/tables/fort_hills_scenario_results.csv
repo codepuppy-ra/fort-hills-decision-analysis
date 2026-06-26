@@ -1,13 +1,13 @@
-scenario,wti_usd_bbl,wti_wcs_diff_usd_bbl,implied_wcs_usd_bbl,cost_case,operating_cost_usd_bbl,margin_usd_bbl,decision_recommendation,investment_attractiveness_score
-Low price / wide differential,49.822,16.789,33.033,High/current cost,38.0,-4.966999999999999,Redirect marginal capital / scale back discretionary spending,8.388333333333335
-Low price / wide differential,49.822,16.789,33.033,Moderate improvement,34.0,-0.9669999999999987,Redirect marginal capital / scale back discretionary spending,15.055000000000001
-Low price / wide differential,49.822,16.789,33.033,Strong improvement,30.0,3.0330000000000013,Redirect marginal capital / scale back discretionary spending,21.72166666666667
-Base case,62.16761904761905,13.897500000000008,48.27011904761904,High/current cost,38.0,10.27011904761904,Limit new capital; fund only high-ROI cost controls,33.783531746031734
-Base case,62.16761904761905,13.897500000000008,48.27011904761904,Moderate improvement,34.0,14.27011904761904,Limit new capital; fund only high-ROI cost controls,40.4501984126984
-Base case,62.16761904761905,13.897500000000008,48.27011904761904,Strong improvement,30.0,18.27011904761904,Limit new capital; fund only high-ROI cost controls,47.11686507936507
-High price / moderate differential,73.08818181818182,13.897500000000008,59.190681818181815,High/current cost,38.0,21.190681818181815,Maintain and invest selectively,51.98446969696969
-High price / moderate differential,73.08818181818182,13.897500000000008,59.190681818181815,Moderate improvement,34.0,25.190681818181815,Maintain and invest selectively,58.65113636363636
-High price / moderate differential,73.08818181818182,13.897500000000008,59.190681818181815,Strong improvement,30.0,29.190681818181815,Maintain and invest selectively,65.31780303030303
-Boom price / narrow differential,84.74590476190477,11.968421052631577,72.77748370927318,High/current cost,38.0,34.777483709273184,Maintain and invest selectively,74.62913951545531
-Boom price / narrow differential,84.74590476190477,11.968421052631577,72.77748370927318,Moderate improvement,34.0,38.777483709273184,Invest in productivity/cost reduction,81.29580618212198
-Boom price / narrow differential,84.74590476190477,11.968421052631577,72.77748370927318,Strong improvement,30.0,42.777483709273184,Invest in productivity/cost reduction,87.96247284878864
+scenario,wti_usd_bbl,wti_wcs_diff_usd_bbl,implied_wcs_usd_bbl,implied_wcs_cad_bbl,cost_case,cash_operating_cost_cad_bbl,margin_cad_bbl,investment_attractiveness_score,decision_recommendation
+Low price / wide differential,49.822,16.789,33.033,45.255210000000005,Improved cost case,31.6,13.655210000000004,33.79315714285715,Maintain selective/discipline-focused investment
+Low price / wide differential,49.822,16.789,33.033,45.255210000000005,Base cost case,33.1,12.155210000000004,31.650300000000005,Maintain selective/discipline-focused investment
+Low price / wide differential,49.822,16.789,33.033,45.255210000000005,Stressed cost case,36.75,8.505210000000005,26.436014285714293,Limit new capital; focus on maintenance and cost control
+Base case,62.16761904761905,13.897500000000008,48.27011904761904,66.13006309523809,Improved cost case,31.6,34.530063095238084,63.614375850340124,Continue productivity-focused Fort Hills investment
+Base case,62.16761904761905,13.897500000000008,48.27011904761904,66.13006309523809,Base cost case,33.1,33.030063095238084,61.47151870748297,Continue productivity-focused Fort Hills investment
+Base case,62.16761904761905,13.897500000000008,48.27011904761904,66.13006309523809,Stressed cost case,36.75,29.380063095238086,56.25723299319727,Continue productivity-focused Fort Hills investment
+High price / moderate differential,73.08818181818182,13.897500000000008,59.190681818181815,81.0912340909091,Improved cost case,31.6,49.491234090909096,84.98747727272728,Continue productivity-focused Fort Hills investment
+High price / moderate differential,73.08818181818182,13.897500000000008,59.190681818181815,81.0912340909091,Base cost case,33.1,47.991234090909096,82.84462012987014,Continue productivity-focused Fort Hills investment
+High price / moderate differential,73.08818181818182,13.897500000000008,59.190681818181815,81.0912340909091,Stressed cost case,36.75,44.3412340909091,77.63033441558443,Continue productivity-focused Fort Hills investment
+Boom price / narrow differential,84.74590476190477,11.968421052631577,72.77748370927318,99.70515268170428,Improved cost case,31.6,68.10515268170428,100.0,Continue productivity-focused Fort Hills investment
+Boom price / narrow differential,84.74590476190477,11.968421052631577,72.77748370927318,99.70515268170428,Base cost case,33.1,66.60515268170428,100.0,Continue productivity-focused Fort Hills investment
+Boom price / narrow differential,84.74590476190477,11.968421052631577,72.77748370927318,99.70515268170428,Stressed cost case,36.75,62.95515268170428,100.0,Continue productivity-focused Fort Hills investment

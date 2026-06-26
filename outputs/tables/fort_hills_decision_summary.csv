@@ -1,5 +1,5 @@
-scenario,avg_margin_usd_bbl,min_margin_usd_bbl,max_margin_usd_bbl,avg_investment_score,managerial_interpretation
-Base case,14.27011904761904,10.27011904761904,18.27011904761904,40.4501984126984,Limit new capital; fund only high-ROI cost controls
-Boom price / narrow differential,38.777483709273184,34.777483709273184,42.777483709273184,81.29580618212198,Invest in productivity/cost reduction
-High price / moderate differential,25.190681818181815,21.190681818181815,29.190681818181815,58.65113636363636,Maintain and invest selectively
-Low price / wide differential,-0.9669999999999987,-4.966999999999999,3.0330000000000013,15.055000000000001,Redirect marginal capital / scale back discretionary spending
+scenario,avg_margin_cad_bbl,min_margin_cad_bbl,max_margin_cad_bbl,avg_investment_score,managerial_interpretation
+Base case,32.313396428571416,29.380063095238086,34.530063095238084,60.44770918367345,Continue productivity-focused Fort Hills investment
+Boom price / narrow differential,65.88848601503761,62.95515268170428,68.10515268170428,100.0,Continue productivity-focused Fort Hills investment
+High price / moderate differential,47.274567424242434,44.3412340909091,49.491234090909096,81.82081060606062,Continue productivity-focused Fort Hills investment
+Low price / wide differential,11.438543333333337,8.505210000000005,13.655210000000004,30.626490476190483,Maintain selective/discipline-focused investment
